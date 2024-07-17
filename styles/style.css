@@ -4,6 +4,8 @@
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
+  margin: auto;
+  
 }
 .name-style{
   color: #FD6E0A;
@@ -16,6 +18,7 @@
   background-image: url(../images/developer.png),url(../images/header_bg.png);
   background-repeat: no-repeat;
   background-position: top left,bottom right;
+  
   
   
 }
